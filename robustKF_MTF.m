@@ -1,3 +1,5 @@
+%% Robust Attitude Estimation via Multiple Tuning Factors (MTFs) using IMU-Only Measurements %% 
+
 % Process Model
 F = eye(3) - dt*skew(wx,wy,wz) ;
 Q = -skew(x_c(1),x_c(2),x_c(3))*g_var*skew(x_c(1),x_c(2),x_c(3))*dt^2 ;
