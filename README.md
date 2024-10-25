@@ -10,7 +10,7 @@ robustKF_STF: Single Tuning Factor (STF)/Approach 1 for Robust Attitude Estimati
 
 robustKF_MTF: Multiple Tuning Factor (MTF)/Approach 2 for Robust Attitude Estimation
 
-Contact: batu.candan@metu.edu.tr
+Contact: dukynuke@iastate.edu
 
 Aerospace Engineering Department/Middle East Technical University
 
